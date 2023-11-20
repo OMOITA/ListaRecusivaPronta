@@ -16,7 +16,7 @@ public class ListaR {
     public ListaR() {
 
     }
-    // recebe valor
+    //////////// recebe valor/////////////////////////
 
     public void add(int valor) {
         if (inicio != null) {
